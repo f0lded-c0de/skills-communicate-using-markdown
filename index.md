@@ -10,3 +10,8 @@ int  main(void)
   return (0);
 }
 ```
+
+- [x] Checked out item
+- [ ] Unchecked item
+- [ ] Other unchecked item
+- [x] Check item
